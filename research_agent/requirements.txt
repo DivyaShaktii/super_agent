@@ -1,0 +1,7 @@
+langchain
+langchain-anthropic
+langchain-google-community
+google-generativeai
+openai
+faiss-cpu
+python-dotenv
